@@ -1,5 +1,6 @@
 # CodeAlpha_StudentGradeTrackerGUI
-Java Swing application for managing student grades and generating performance reports
+Java Swing application for managing student grades and generating performance reports.
+
 *Student Grade Tracker GUI* 
 
  *#Description* 
