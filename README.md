@@ -3,6 +3,7 @@ Java Swing application for managing student grades and generating performance re
 *Student Grade Tracker GUI* 
 
  *#Description* 
+ 
 Student Grade Tracker GUI is a Java-based desktop application developed using Swing. It allows users to enter student names and marks, calculate average marks, find the highest and lowest scores, and display a performance summary through a simple graphical user interface.
 
  *# Features* 
