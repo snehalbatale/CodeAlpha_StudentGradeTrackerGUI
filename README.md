@@ -25,6 +25,11 @@ Student Grade Tracker GUI is a Java-based desktop application developed using Sw
 3. Run the program:
    java StudentGradeTrackerGUI
 
+# Screenshots
+1.Main Window
+![Main Window](Screenshot1.png)
+2.Result Window
+![Result Window](Screenshot2.png)
  
 
   
