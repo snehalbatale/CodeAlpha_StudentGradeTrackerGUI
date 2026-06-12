@@ -9,17 +9,19 @@ Student Grade Tracker GUI is a Java-based desktop application developed using Sw
 It allows users to enter student names and marks, calculate average marks, find the highest and lowest scores, and display a performance summary through a simple graphical user interface.
 
 # Features* 
+
 - Add student names and marks
   
 - Calculate average marks
   
 - Display highest marks
-- 
+  
 - Display lowest marks
   
 - User-friendly GUI using Java Swing
 
 # Technologies Used* 
+
 - Java
   
 - Swing (GUI)
@@ -33,6 +35,7 @@ It allows users to enter student names and marks, calculate average marks, find 
 3.Compile the program:
 
 # Screenshots
+
 1.Main Window
 ![Main Window](Screenshot1.png)
 
